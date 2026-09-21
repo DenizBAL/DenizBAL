@@ -34,5 +34,5 @@ Mekatronik Mühendisliği altyapımı veri analitiği tutkumla birleştirerek ha
 
 * **Email:** [denizbl731@gmail.com](mailto:denizbl731@gmail.com)
 * **Phone:** +90 (536) 540 99 58
-* **LinkedIn:** [İnan Deniz Bal](https://www.linkedin.com/in/inan-deniz-bal/)
+* **LinkedIn:** [Deniz Bal](https://www.linkedin.com/in/deniz-bal/)
 * **GitHub:** [github.com/DenizBAL](https://github.com/DenizBAL)
